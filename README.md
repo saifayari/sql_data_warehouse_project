@@ -31,39 +31,6 @@ It includes the implementation of ETL processes, data modeling, and basic analyt
 
 ---
 
-## 📂 Project Structure
-
-```
-sql_data_warehouse_project/
-│
-├── data/         # Raw data files
-├── staging/      # Data cleaning scripts
-├── warehouse/    # Fact & dimension tables
-├── etl/          # ETL scripts
-└── analytics/    # SQL queries
-```
-
----
-
-## ▶️ How to Run
-
-1. Install SQL Server and SSMS
-2. Create the database
-3. Run staging scripts
-4. Run warehouse scripts
-5. Execute ETL processes
-6. Run analytics queries
-
----
-
-## 📈 Expected Output
-
-* Clean and structured data warehouse
-* Optimized schema for analysis
-* SQL queries generating business insights
-
----
-
 ## 👤 About Me
 
 I am a Data Science student with a strong interest in **Data Engineering, Machine Learning, and Analytics**.
